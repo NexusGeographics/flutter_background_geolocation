@@ -12,9 +12,6 @@ dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.transistorsoft.flutter.backgroundgeolocation
-        pluginClass: FLTBackgroundGeolocationPlugin
       ios:
         pluginClass: FLTBackgroundGeolocationPlugin
 
